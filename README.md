@@ -1,5 +1,7 @@
 <div align="center">
 
+# ДАННАЯ ВЕРСИЯ УСТАРЕЛА, ИСПОЛЬЗУЙТЕ НОВУЮ ВЕРСИЮ!<br>👉 [СКАЧАТЬ](https://t.me/+OIexTpmCZXVlZWY6) 👈
+
 ![Screenshot_1](https://telegra.ph/file/c87fdb1c5faad4ee53050.png)
 
 # 💣 INSIDE BOMBER
@@ -48,3 +50,4 @@
 - **Наш Telegram канал ~> [КЛИК](https://t.me/+z4L61XedSVllODAy). Подписка на него - самая лучшая поддержка и мотивация продолжать данный проект💜**
 - **[Владелец](https://t.me/A_KTO_Tbl)**
 - **[DonationAlerts](https://www.donationalerts.com/r/inside_forever)**
+
